@@ -23,8 +23,8 @@ If you use this work in your research, please cite:
 2.Convert data
 
 ```
-    $ python convert_icdar.py --source_dir $SOURCE_PATH --target_dir $TARGET_PATH
-    $ python convert_lsun.py --source_dir $SOURCE_PATH --target_dir $TARGET_PATH
+  $ python convert_icdar.py --source_dir $SOURCE_PATH --target_dir $TARGET_PATH
+  $ python convert_lsun.py --source_dir $SOURCE_PATH --target_dir $TARGET_PATH
 ```
 
 3.Train model
