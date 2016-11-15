@@ -6,7 +6,7 @@ If you use this work in your research, please cite:
     @article{Mao2016,
       author = {Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau and Zhen Wang},
       title = {Multi-class Generative Adversarial Networks with the L2 Loss Function},
-      journal = {arXiv preprint},
+      journal = {arXiv preprint arXiv:1611.04076},
       year = {2016}
     }
 
